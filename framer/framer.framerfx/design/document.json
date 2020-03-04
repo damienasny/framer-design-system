@@ -1,0 +1,2375 @@
+{
+  "root" : {
+    "__class" : "RootNode",
+    "children" : [
+      {
+        "__class" : "FrameNode",
+        "aspectRatio" : null,
+        "blendingEnabled" : 0,
+        "blendingMode" : "normal",
+        "bottom" : null,
+        "centerAnchorX" : 0,
+        "centerAnchorY" : 0,
+        "children" : [
+          {
+            "__class" : "FrameNode",
+            "aspectRatio" : 1,
+            "blendingEnabled" : 0,
+            "blendingMode" : "normal",
+            "borderEnabled" : 0,
+            "bottom" : null,
+            "centerAnchorX" : 0.15277777777777779,
+            "centerAnchorY" : 0.17666666666666667,
+            "children" : [
+              {
+                "__class" : "TextNode",
+                "autoSize" : false,
+                "bottom" : null,
+                "centerAnchorX" : 0.36764705882352944,
+                "centerAnchorY" : 0.17352941176470588,
+                "codeOverrideEnabled" : false,
+                "constraintsLocked" : false,
+                "exportOptions" : [
+
+                ],
+                "height" : 25,
+                "heightType" : 0,
+                "id" : "umVoawliE",
+                "isTarget" : false,
+                "left" : 14,
+                "locked" : false,
+                "name" : null,
+                "opacity" : 1,
+                "originalid" : null,
+                "parentid" : "OCdk5ypAU",
+                "right" : null,
+                "rotation" : 0,
+                "styledText" : {
+                  "__class" : "StyledTextDraft",
+                  "blocks" : [
+                    {
+                      "data" : {
+                        "emptyStyle" : [
+                          "LETTERSPACING:0",
+                          "LINEHEIGHT:1.2",
+                          "FONT:__SystemDefault-500-normal__",
+                          "SIZE:21",
+                          "COLOR:hsl(0, 0%, 100%)"
+                        ]
+                      },
+                      "depth" : 0,
+                      "entityRanges" : [
+
+                      ],
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 7,
+                          "offset" : 0,
+                          "style" : "LETTERSPACING:0"
+                        },
+                        {
+                          "length" : 7,
+                          "offset" : 0,
+                          "style" : "LINEHEIGHT:1.2"
+                        },
+                        {
+                          "length" : 7,
+                          "offset" : 0,
+                          "style" : "FONT:__SystemDefault-500-normal__"
+                        },
+                        {
+                          "length" : 7,
+                          "offset" : 0,
+                          "style" : "SIZE:21"
+                        },
+                        {
+                          "length" : 7,
+                          "offset" : 0,
+                          "style" : "COLOR:hsl(0, 0%, 100%)"
+                        }
+                      ],
+                      "key" : "a2c9o",
+                      "text" : "#6F2DBD",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "cached" : {
+                    "html" : "<div data-offset-key=\"a2c9o-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"a2c9o-0-0\" style=\"tab-size:4;font-family:&quot;system-ui&quot;, &quot;-apple-system&quot;, &quot;BlinkMacSystemFont&quot;, &quot;Segoe UI&quot;, &quot;Roboto&quot;, &quot;Oxygen&quot;, &quot;Ubuntu&quot;, &quot;Cantarell&quot;, &quot;Fira Sans&quot;, &quot;Droid Sans&quot;, &quot;Helvetica Neue&quot;, &quot;sans-serif&quot;, &quot;System Default&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 100%);font-size:21px;letter-spacing:0px;line-height:1.2;font-weight:500\"><span data-text=\"true\">#6F2DBD<\/span><\/span><\/div>",
+                    "os" : "macos 10_15 framerx",
+                    "size" : {
+                      "height" : 25,
+                      "width" : 98
+                    },
+                    "width" : 97
+                  },
+                  "entityMap" : {
+
+                  }
+                },
+                "top" : 17,
+                "visible" : true,
+                "width" : 97,
+                "widthType" : 0
+              },
+              {
+                "__class" : "TextNode",
+                "autoSize" : false,
+                "bottom" : 24,
+                "centerAnchorX" : 0.36764705882352944,
+                "centerAnchorY" : 0.78529411764705881,
+                "codeOverrideEnabled" : false,
+                "constraintsLocked" : false,
+                "exportOptions" : [
+
+                ],
+                "height" : 25,
+                "heightType" : 0,
+                "id" : "A84oYyUpd",
+                "isTarget" : false,
+                "left" : 14,
+                "locked" : false,
+                "name" : null,
+                "opacity" : 1,
+                "originalid" : null,
+                "parentid" : "OCdk5ypAU",
+                "right" : null,
+                "rotation" : 0,
+                "styledText" : {
+                  "__class" : "StyledTextDraft",
+                  "blocks" : [
+                    {
+                      "data" : {
+                        "emptyStyle" : [
+                          "LETTERSPACING:0",
+                          "LINEHEIGHT:1.2",
+                          "FONT:__SystemDefault-500-normal__",
+                          "SIZE:21",
+                          "COLOR:hsl(0, 0%, 100%)"
+                        ]
+                      },
+                      "depth" : 0,
+                      "entityRanges" : [
+
+                      ],
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 9,
+                          "offset" : 0,
+                          "style" : "LETTERSPACING:0"
+                        },
+                        {
+                          "length" : 9,
+                          "offset" : 0,
+                          "style" : "LINEHEIGHT:1.2"
+                        },
+                        {
+                          "length" : 9,
+                          "offset" : 0,
+                          "style" : "FONT:__SystemDefault-500-normal__"
+                        },
+                        {
+                          "length" : 9,
+                          "offset" : 0,
+                          "style" : "SIZE:21"
+                        },
+                        {
+                          "length" : 9,
+                          "offset" : 0,
+                          "style" : "COLOR:hsl(0, 0%, 100%)"
+                        }
+                      ],
+                      "key" : "a2c9o",
+                      "text" : "primary-1",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "cached" : {
+                    "html" : "<div data-offset-key=\"a2c9o-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"a2c9o-0-0\" style=\"tab-size:4;font-family:&quot;system-ui&quot;, &quot;-apple-system&quot;, &quot;BlinkMacSystemFont&quot;, &quot;Segoe UI&quot;, &quot;Roboto&quot;, &quot;Oxygen&quot;, &quot;Ubuntu&quot;, &quot;Cantarell&quot;, &quot;Fira Sans&quot;, &quot;Droid Sans&quot;, &quot;Helvetica Neue&quot;, &quot;sans-serif&quot;, &quot;System Default&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 100%);font-size:21px;letter-spacing:0px;line-height:1.2;font-weight:500\"><span data-text=\"true\">primary-1<\/span><\/span><\/div>",
+                    "os" : "macos 10_15 framerx",
+                    "size" : {
+                      "height" : 25,
+                      "width" : 98
+                    },
+                    "width" : 97
+                  },
+                  "entityMap" : {
+
+                  }
+                },
+                "top" : null,
+                "visible" : true,
+                "width" : 97,
+                "widthType" : 0
+              }
+            ],
+            "clip" : false,
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : false,
+            "deviceType" : null,
+            "exportOptions" : [
+
+            ],
+            "fillColor" : "var(--token-6fa0063c-8ecc-465d-844c-6d173de05c7d, rgb(111, 45, 189)) \/* {\"name\":\"primary-1\"} *\/",
+            "fillEnabled" : true,
+            "fillImage" : null,
+            "fillImageOriginalName" : null,
+            "fillImagePixelHeight" : null,
+            "fillImagePixelWidth" : null,
+            "fillImageResize" : "fill",
+            "fillType" : "color",
+            "guidesX" : [
+
+            ],
+            "guidesY" : [
+
+            ],
+            "height" : 170,
+            "heightType" : 0,
+            "id" : "OCdk5ypAU",
+            "intrinsicHeight" : null,
+            "intrinsicWidth" : null,
+            "isExternalMaster" : null,
+            "isMaster" : false,
+            "isTarget" : false,
+            "left" : 135,
+            "locked" : false,
+            "name" : null,
+            "navigationTarget" : null,
+            "navigationTransition" : "push",
+            "navigationTransitionBackdropColor" : "rgba(4,4,15,.4)",
+            "navigationTransitionDirection" : "left",
+            "opacity" : 1,
+            "originalid" : null,
+            "parentid" : "DvBrjm_Zh",
+            "previewSettings" : null,
+            "radius" : 15,
+            "radiusBottomLeft" : 15,
+            "radiusBottomRight" : 15,
+            "radiusIsRelative" : false,
+            "radiusPerCorner" : false,
+            "radiusTopLeft" : 15,
+            "radiusTopRight" : 15,
+            "replicaInfo" : null,
+            "right" : null,
+            "rotation" : 0,
+            "top" : 74,
+            "visible" : true,
+            "width" : 170,
+            "widthType" : 0
+          },
+          {
+            "__class" : "FrameNode",
+            "aspectRatio" : 1,
+            "blendingEnabled" : 0,
+            "blendingMode" : "normal",
+            "borderEnabled" : 0,
+            "bottom" : null,
+            "centerAnchorX" : 0.32569444444444445,
+            "centerAnchorY" : 0.17666666666666667,
+            "children" : [
+              {
+                "__class" : "TextNode",
+                "autoSize" : false,
+                "bottom" : null,
+                "centerAnchorX" : 0.36764705882352944,
+                "centerAnchorY" : 0.17352941176470588,
+                "codeOverrideEnabled" : false,
+                "constraintsLocked" : false,
+                "exportOptions" : [
+
+                ],
+                "height" : 25,
+                "heightType" : 0,
+                "id" : "WBDJJ1y3v",
+                "isTarget" : false,
+                "left" : 14,
+                "locked" : false,
+                "name" : null,
+                "opacity" : 1,
+                "originalid" : null,
+                "parentid" : "VShUCYhhj",
+                "right" : null,
+                "rotation" : 0,
+                "styledText" : {
+                  "__class" : "StyledTextDraft",
+                  "blocks" : [
+                    {
+                      "data" : {
+                        "emptyStyle" : [
+                          "LETTERSPACING:0",
+                          "LINEHEIGHT:1.2",
+                          "FONT:__SystemDefault-500-normal__",
+                          "SIZE:21",
+                          "COLOR:hsl(0, 0%, 100%)"
+                        ]
+                      },
+                      "depth" : 0,
+                      "entityRanges" : [
+
+                      ],
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 7,
+                          "offset" : 0,
+                          "style" : "LETTERSPACING:0"
+                        },
+                        {
+                          "length" : 7,
+                          "offset" : 0,
+                          "style" : "LINEHEIGHT:1.2"
+                        },
+                        {
+                          "length" : 7,
+                          "offset" : 0,
+                          "style" : "FONT:__SystemDefault-500-normal__"
+                        },
+                        {
+                          "length" : 7,
+                          "offset" : 0,
+                          "style" : "SIZE:21"
+                        },
+                        {
+                          "length" : 7,
+                          "offset" : 0,
+                          "style" : "COLOR:hsl(0, 0%, 100%)"
+                        }
+                      ],
+                      "key" : "a2c9o",
+                      "text" : "#A663CC",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "cached" : {
+                    "html" : "<div data-offset-key=\"a2c9o-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"a2c9o-0-0\" style=\"tab-size:4;font-family:&quot;system-ui&quot;, &quot;-apple-system&quot;, &quot;BlinkMacSystemFont&quot;, &quot;Segoe UI&quot;, &quot;Roboto&quot;, &quot;Oxygen&quot;, &quot;Ubuntu&quot;, &quot;Cantarell&quot;, &quot;Fira Sans&quot;, &quot;Droid Sans&quot;, &quot;Helvetica Neue&quot;, &quot;sans-serif&quot;, &quot;System Default&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 100%);font-size:21px;letter-spacing:0px;line-height:1.2;font-weight:500\"><span data-text=\"true\">#A663CC<\/span><\/span><\/div>",
+                    "os" : "macos 10_15 framerx",
+                    "size" : {
+                      "height" : 25,
+                      "width" : 98
+                    },
+                    "width" : 97
+                  },
+                  "entityMap" : {
+
+                  }
+                },
+                "top" : 17,
+                "visible" : true,
+                "width" : 97,
+                "widthType" : 0
+              },
+              {
+                "__class" : "TextNode",
+                "autoSize" : false,
+                "bottom" : 24,
+                "centerAnchorX" : 0.36764705882352944,
+                "centerAnchorY" : 0.78529411764705881,
+                "codeOverrideEnabled" : false,
+                "constraintsLocked" : false,
+                "exportOptions" : [
+
+                ],
+                "height" : 25,
+                "heightType" : 0,
+                "id" : "sR5cRxJLk",
+                "isTarget" : false,
+                "left" : 14,
+                "locked" : false,
+                "name" : null,
+                "opacity" : 1,
+                "originalid" : null,
+                "parentid" : "VShUCYhhj",
+                "right" : null,
+                "rotation" : 0,
+                "styledText" : {
+                  "__class" : "StyledTextDraft",
+                  "blocks" : [
+                    {
+                      "data" : {
+                        "emptyStyle" : [
+                          "LETTERSPACING:0",
+                          "LINEHEIGHT:1.2",
+                          "FONT:__SystemDefault-500-normal__",
+                          "SIZE:21",
+                          "COLOR:hsl(0, 0%, 100%)"
+                        ]
+                      },
+                      "depth" : 0,
+                      "entityRanges" : [
+
+                      ],
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 9,
+                          "offset" : 0,
+                          "style" : "LETTERSPACING:0"
+                        },
+                        {
+                          "length" : 9,
+                          "offset" : 0,
+                          "style" : "LINEHEIGHT:1.2"
+                        },
+                        {
+                          "length" : 9,
+                          "offset" : 0,
+                          "style" : "FONT:__SystemDefault-500-normal__"
+                        },
+                        {
+                          "length" : 9,
+                          "offset" : 0,
+                          "style" : "SIZE:21"
+                        },
+                        {
+                          "length" : 9,
+                          "offset" : 0,
+                          "style" : "COLOR:hsl(0, 0%, 100%)"
+                        }
+                      ],
+                      "key" : "a2c9o",
+                      "text" : "primary-2",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "cached" : {
+                    "html" : "<div data-offset-key=\"a2c9o-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"a2c9o-0-0\" style=\"tab-size:4;font-family:&quot;system-ui&quot;, &quot;-apple-system&quot;, &quot;BlinkMacSystemFont&quot;, &quot;Segoe UI&quot;, &quot;Roboto&quot;, &quot;Oxygen&quot;, &quot;Ubuntu&quot;, &quot;Cantarell&quot;, &quot;Fira Sans&quot;, &quot;Droid Sans&quot;, &quot;Helvetica Neue&quot;, &quot;sans-serif&quot;, &quot;System Default&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 100%);font-size:21px;letter-spacing:0px;line-height:1.2;font-weight:500\"><span data-text=\"true\">primary-2<\/span><\/span><\/div>",
+                    "os" : "macos 10_15 framerx",
+                    "size" : {
+                      "height" : 25,
+                      "width" : 98
+                    },
+                    "width" : 97
+                  },
+                  "entityMap" : {
+
+                  }
+                },
+                "top" : null,
+                "visible" : true,
+                "width" : 97,
+                "widthType" : 0
+              }
+            ],
+            "clip" : false,
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : false,
+            "deviceType" : null,
+            "exportOptions" : [
+
+            ],
+            "fillColor" : "var(--token-c2782fdb-62fd-461a-a974-5f1bdbd86deb, rgb(166, 99, 204)) \/* {\"name\":\"primary-2\"} *\/",
+            "fillEnabled" : true,
+            "fillImage" : null,
+            "fillImageOriginalName" : null,
+            "fillImagePixelHeight" : null,
+            "fillImagePixelWidth" : null,
+            "fillImageResize" : "fill",
+            "fillType" : "color",
+            "guidesX" : [
+
+            ],
+            "guidesY" : [
+
+            ],
+            "height" : 170,
+            "heightType" : 0,
+            "id" : "VShUCYhhj",
+            "intrinsicHeight" : null,
+            "intrinsicWidth" : null,
+            "isExternalMaster" : null,
+            "isMaster" : false,
+            "isTarget" : false,
+            "left" : 384,
+            "locked" : false,
+            "name" : null,
+            "navigationTarget" : null,
+            "navigationTransition" : "push",
+            "navigationTransitionBackdropColor" : "rgba(4,4,15,.4)",
+            "navigationTransitionDirection" : "left",
+            "opacity" : 1,
+            "originalid" : null,
+            "parentid" : "DvBrjm_Zh",
+            "previewSettings" : null,
+            "radius" : 15,
+            "radiusBottomLeft" : 15,
+            "radiusBottomRight" : 15,
+            "radiusIsRelative" : false,
+            "radiusPerCorner" : false,
+            "radiusTopLeft" : 15,
+            "radiusTopRight" : 15,
+            "replicaInfo" : null,
+            "right" : null,
+            "rotation" : 0,
+            "top" : 74,
+            "visible" : true,
+            "width" : 170,
+            "widthType" : 0
+          },
+          {
+            "__class" : "FrameNode",
+            "aspectRatio" : 1,
+            "blendingEnabled" : 0,
+            "blendingMode" : "normal",
+            "borderEnabled" : 0,
+            "bottom" : null,
+            "centerAnchorX" : 0.5,
+            "centerAnchorY" : 0.17666666666666667,
+            "children" : [
+              {
+                "__class" : "TextNode",
+                "autoSize" : false,
+                "bottom" : null,
+                "centerAnchorX" : 0.36764705882352944,
+                "centerAnchorY" : 0.17352941176470588,
+                "codeOverrideEnabled" : false,
+                "constraintsLocked" : false,
+                "exportOptions" : [
+
+                ],
+                "height" : 25,
+                "heightType" : 0,
+                "id" : "hzA8sR8GN",
+                "isTarget" : false,
+                "left" : 14,
+                "locked" : false,
+                "name" : null,
+                "opacity" : 1,
+                "originalid" : null,
+                "parentid" : "PvE7tXxb5",
+                "right" : null,
+                "rotation" : 0,
+                "styledText" : {
+                  "__class" : "StyledTextDraft",
+                  "blocks" : [
+                    {
+                      "data" : {
+                        "emptyStyle" : [
+                          "LETTERSPACING:0",
+                          "LINEHEIGHT:1.2",
+                          "FONT:__SystemDefault-500-normal__",
+                          "SIZE:21",
+                          "COLOR:hsl(0, 0%, 0%)"
+                        ]
+                      },
+                      "depth" : 0,
+                      "entityRanges" : [
+
+                      ],
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 7,
+                          "offset" : 0,
+                          "style" : "LETTERSPACING:0"
+                        },
+                        {
+                          "length" : 7,
+                          "offset" : 0,
+                          "style" : "LINEHEIGHT:1.2"
+                        },
+                        {
+                          "length" : 7,
+                          "offset" : 0,
+                          "style" : "FONT:__SystemDefault-500-normal__"
+                        },
+                        {
+                          "length" : 7,
+                          "offset" : 0,
+                          "style" : "SIZE:21"
+                        },
+                        {
+                          "length" : 7,
+                          "offset" : 0,
+                          "style" : "COLOR:hsl(0, 0%, 0%)"
+                        }
+                      ],
+                      "key" : "a2c9o",
+                      "text" : "#B298DC",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "cached" : {
+                    "html" : "<div data-offset-key=\"a2c9o-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"a2c9o-0-0\" style=\"tab-size:4;font-family:&quot;system-ui&quot;, &quot;-apple-system&quot;, &quot;BlinkMacSystemFont&quot;, &quot;Segoe UI&quot;, &quot;Roboto&quot;, &quot;Oxygen&quot;, &quot;Ubuntu&quot;, &quot;Cantarell&quot;, &quot;Fira Sans&quot;, &quot;Droid Sans&quot;, &quot;Helvetica Neue&quot;, &quot;sans-serif&quot;, &quot;System Default&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:21px;letter-spacing:0px;line-height:1.2;font-weight:500\"><span data-text=\"true\">#B298DC<\/span><\/span><\/div>",
+                    "os" : "macos 10_15 framerx",
+                    "size" : {
+                      "height" : 25,
+                      "width" : 98
+                    },
+                    "width" : 97
+                  },
+                  "entityMap" : {
+
+                  }
+                },
+                "top" : 17,
+                "visible" : true,
+                "width" : 97,
+                "widthType" : 0
+              },
+              {
+                "__class" : "TextNode",
+                "autoSize" : false,
+                "bottom" : 24,
+                "centerAnchorX" : 0.45294117647058824,
+                "centerAnchorY" : 0.78529411764705881,
+                "codeOverrideEnabled" : false,
+                "constraintsLocked" : false,
+                "exportOptions" : [
+
+                ],
+                "height" : 25,
+                "heightType" : 0,
+                "id" : "SaaHquf8E",
+                "isTarget" : false,
+                "left" : 14,
+                "locked" : false,
+                "name" : null,
+                "opacity" : 1,
+                "originalid" : null,
+                "parentid" : "PvE7tXxb5",
+                "right" : 30,
+                "rotation" : 0,
+                "styledText" : {
+                  "__class" : "StyledTextDraft",
+                  "blocks" : [
+                    {
+                      "data" : {
+                        "emptyStyle" : [
+                          "LETTERSPACING:0",
+                          "LINEHEIGHT:1.2",
+                          "FONT:__SystemDefault-500-normal__",
+                          "SIZE:21",
+                          "COLOR:hsl(0, 0%, 0%)"
+                        ]
+                      },
+                      "depth" : 0,
+                      "entityRanges" : [
+
+                      ],
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 11,
+                          "offset" : 0,
+                          "style" : "LETTERSPACING:0"
+                        },
+                        {
+                          "length" : 11,
+                          "offset" : 0,
+                          "style" : "LINEHEIGHT:1.2"
+                        },
+                        {
+                          "length" : 11,
+                          "offset" : 0,
+                          "style" : "FONT:__SystemDefault-500-normal__"
+                        },
+                        {
+                          "length" : 11,
+                          "offset" : 0,
+                          "style" : "SIZE:21"
+                        },
+                        {
+                          "length" : 11,
+                          "offset" : 0,
+                          "style" : "COLOR:hsl(0, 0%, 0%)"
+                        }
+                      ],
+                      "key" : "a2c9o",
+                      "text" : "secondary-1",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "cached" : {
+                    "html" : "<div data-offset-key=\"a2c9o-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"a2c9o-0-0\" style=\"tab-size:4;font-family:&quot;system-ui&quot;, &quot;-apple-system&quot;, &quot;BlinkMacSystemFont&quot;, &quot;Segoe UI&quot;, &quot;Roboto&quot;, &quot;Oxygen&quot;, &quot;Ubuntu&quot;, &quot;Cantarell&quot;, &quot;Fira Sans&quot;, &quot;Droid Sans&quot;, &quot;Helvetica Neue&quot;, &quot;sans-serif&quot;, &quot;System Default&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:21px;letter-spacing:0px;line-height:1.2;font-weight:500\"><span data-text=\"true\">secondary-1<\/span><\/span><\/div>",
+                    "os" : "macos 10_15 framerx",
+                    "size" : {
+                      "height" : 25,
+                      "width" : 127
+                    },
+                    "width" : 126
+                  },
+                  "entityMap" : {
+
+                  }
+                },
+                "top" : null,
+                "visible" : true,
+                "width" : 126,
+                "widthType" : 0
+              }
+            ],
+            "clip" : false,
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : false,
+            "deviceType" : null,
+            "exportOptions" : [
+
+            ],
+            "fillColor" : "var(--token-888583d8-b120-4b9c-8e6a-6ab09bff4424, rgb(178, 152, 220)) \/* {\"name\":\"secondary-1\"} *\/",
+            "fillEnabled" : true,
+            "fillImage" : null,
+            "fillImageOriginalName" : null,
+            "fillImagePixelHeight" : null,
+            "fillImagePixelWidth" : null,
+            "fillImageResize" : "fill",
+            "fillType" : "color",
+            "guidesX" : [
+
+            ],
+            "guidesY" : [
+
+            ],
+            "height" : 170,
+            "heightType" : 0,
+            "id" : "PvE7tXxb5",
+            "intrinsicHeight" : null,
+            "intrinsicWidth" : null,
+            "isExternalMaster" : null,
+            "isMaster" : false,
+            "isTarget" : false,
+            "left" : null,
+            "locked" : false,
+            "name" : null,
+            "navigationTarget" : null,
+            "navigationTransition" : "push",
+            "navigationTransitionBackdropColor" : "rgba(4,4,15,.4)",
+            "navigationTransitionDirection" : "left",
+            "opacity" : 1,
+            "originalid" : null,
+            "parentid" : "DvBrjm_Zh",
+            "previewSettings" : null,
+            "radius" : 15,
+            "radiusBottomLeft" : 15,
+            "radiusBottomRight" : 15,
+            "radiusIsRelative" : false,
+            "radiusPerCorner" : false,
+            "radiusTopLeft" : 15,
+            "radiusTopRight" : 15,
+            "replicaInfo" : null,
+            "right" : null,
+            "rotation" : 0,
+            "top" : 74,
+            "visible" : true,
+            "width" : 170,
+            "widthType" : 0
+          },
+          {
+            "__class" : "FrameNode",
+            "aspectRatio" : 1,
+            "blendingEnabled" : 0,
+            "blendingMode" : "normal",
+            "borderEnabled" : 0,
+            "bottom" : null,
+            "centerAnchorX" : 0.6743055555555556,
+            "centerAnchorY" : 0.17666666666666667,
+            "children" : [
+              {
+                "__class" : "TextNode",
+                "autoSize" : false,
+                "bottom" : null,
+                "centerAnchorX" : 0.36764705882352944,
+                "centerAnchorY" : 0.17352941176470588,
+                "codeOverrideEnabled" : false,
+                "constraintsLocked" : false,
+                "exportOptions" : [
+
+                ],
+                "height" : 25,
+                "heightType" : 0,
+                "id" : "jnKTa6EMY",
+                "isTarget" : false,
+                "left" : 14,
+                "locked" : false,
+                "name" : null,
+                "opacity" : 1,
+                "originalid" : null,
+                "parentid" : "dTvdlbEnE",
+                "right" : null,
+                "rotation" : 0,
+                "styledText" : {
+                  "__class" : "StyledTextDraft",
+                  "blocks" : [
+                    {
+                      "data" : {
+                        "emptyStyle" : [
+                          "LETTERSPACING:0",
+                          "LINEHEIGHT:1.2",
+                          "FONT:__SystemDefault-500-normal__",
+                          "SIZE:21",
+                          "COLOR:hsl(0, 0%, 0%)"
+                        ]
+                      },
+                      "depth" : 0,
+                      "entityRanges" : [
+
+                      ],
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 7,
+                          "offset" : 0,
+                          "style" : "LETTERSPACING:0"
+                        },
+                        {
+                          "length" : 7,
+                          "offset" : 0,
+                          "style" : "LINEHEIGHT:1.2"
+                        },
+                        {
+                          "length" : 7,
+                          "offset" : 0,
+                          "style" : "FONT:__SystemDefault-500-normal__"
+                        },
+                        {
+                          "length" : 7,
+                          "offset" : 0,
+                          "style" : "SIZE:21"
+                        },
+                        {
+                          "length" : 7,
+                          "offset" : 0,
+                          "style" : "COLOR:hsl(0, 0%, 0%)"
+                        }
+                      ],
+                      "key" : "a2c9o",
+                      "text" : "#B8D0EB",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "cached" : {
+                    "html" : "<div data-offset-key=\"a2c9o-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"a2c9o-0-0\" style=\"tab-size:4;font-family:&quot;system-ui&quot;, &quot;-apple-system&quot;, &quot;BlinkMacSystemFont&quot;, &quot;Segoe UI&quot;, &quot;Roboto&quot;, &quot;Oxygen&quot;, &quot;Ubuntu&quot;, &quot;Cantarell&quot;, &quot;Fira Sans&quot;, &quot;Droid Sans&quot;, &quot;Helvetica Neue&quot;, &quot;sans-serif&quot;, &quot;System Default&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:21px;letter-spacing:0px;line-height:1.2;font-weight:500\"><span data-text=\"true\">#B8D0EB<\/span><\/span><\/div>",
+                    "os" : "macos 10_15 framerx",
+                    "size" : {
+                      "height" : 25,
+                      "width" : 98
+                    },
+                    "width" : 97
+                  },
+                  "entityMap" : {
+
+                  }
+                },
+                "top" : 17,
+                "visible" : true,
+                "width" : 97,
+                "widthType" : 0
+              },
+              {
+                "__class" : "TextNode",
+                "autoSize" : false,
+                "bottom" : 19,
+                "centerAnchorX" : 0.45294117647058824,
+                "centerAnchorY" : 0.81470588235294117,
+                "codeOverrideEnabled" : false,
+                "constraintsLocked" : false,
+                "exportOptions" : [
+
+                ],
+                "height" : 25,
+                "heightType" : 0,
+                "id" : "eGqv26zcq",
+                "isTarget" : false,
+                "left" : 14,
+                "locked" : false,
+                "name" : null,
+                "opacity" : 1,
+                "originalid" : null,
+                "parentid" : "dTvdlbEnE",
+                "right" : 30,
+                "rotation" : 0,
+                "styledText" : {
+                  "__class" : "StyledTextDraft",
+                  "blocks" : [
+                    {
+                      "data" : {
+                        "emptyStyle" : [
+                          "LETTERSPACING:0",
+                          "LINEHEIGHT:1.2",
+                          "FONT:__SystemDefault-500-normal__",
+                          "SIZE:21",
+                          "COLOR:hsl(0, 0%, 0%)"
+                        ]
+                      },
+                      "depth" : 0,
+                      "entityRanges" : [
+
+                      ],
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 11,
+                          "offset" : 0,
+                          "style" : "LETTERSPACING:0"
+                        },
+                        {
+                          "length" : 11,
+                          "offset" : 0,
+                          "style" : "LINEHEIGHT:1.2"
+                        },
+                        {
+                          "length" : 11,
+                          "offset" : 0,
+                          "style" : "FONT:__SystemDefault-500-normal__"
+                        },
+                        {
+                          "length" : 11,
+                          "offset" : 0,
+                          "style" : "SIZE:21"
+                        },
+                        {
+                          "length" : 11,
+                          "offset" : 0,
+                          "style" : "COLOR:hsl(0, 0%, 0%)"
+                        }
+                      ],
+                      "key" : "a2c9o",
+                      "text" : "secondary-2",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "cached" : {
+                    "html" : "<div data-offset-key=\"a2c9o-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"a2c9o-0-0\" style=\"tab-size:4;font-family:&quot;system-ui&quot;, &quot;-apple-system&quot;, &quot;BlinkMacSystemFont&quot;, &quot;Segoe UI&quot;, &quot;Roboto&quot;, &quot;Oxygen&quot;, &quot;Ubuntu&quot;, &quot;Cantarell&quot;, &quot;Fira Sans&quot;, &quot;Droid Sans&quot;, &quot;Helvetica Neue&quot;, &quot;sans-serif&quot;, &quot;System Default&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:21px;letter-spacing:0px;line-height:1.2;font-weight:500\"><span data-text=\"true\">secondary-2<\/span><\/span><\/div>",
+                    "os" : "macos 10_15 framerx",
+                    "size" : {
+                      "height" : 25,
+                      "width" : 127
+                    },
+                    "width" : 126
+                  },
+                  "entityMap" : {
+
+                  }
+                },
+                "top" : null,
+                "visible" : true,
+                "width" : 126,
+                "widthType" : 0
+              }
+            ],
+            "clip" : false,
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : false,
+            "deviceType" : null,
+            "exportOptions" : [
+
+            ],
+            "fillColor" : "var(--token-933541d7-05c1-432c-9c78-65dabebd26ae, rgb(184, 208, 235)) \/* {\"name\":\"secondary-2\"} *\/",
+            "fillEnabled" : true,
+            "fillImage" : null,
+            "fillImageOriginalName" : null,
+            "fillImagePixelHeight" : null,
+            "fillImagePixelWidth" : null,
+            "fillImageResize" : "fill",
+            "fillType" : "color",
+            "guidesX" : [
+
+            ],
+            "guidesY" : [
+
+            ],
+            "height" : 170,
+            "heightType" : 0,
+            "id" : "dTvdlbEnE",
+            "intrinsicHeight" : null,
+            "intrinsicWidth" : null,
+            "isExternalMaster" : null,
+            "isMaster" : false,
+            "isTarget" : false,
+            "left" : null,
+            "locked" : false,
+            "name" : null,
+            "navigationTarget" : null,
+            "navigationTransition" : "push",
+            "navigationTransitionBackdropColor" : "rgba(4,4,15,.4)",
+            "navigationTransitionDirection" : "left",
+            "opacity" : 1,
+            "originalid" : null,
+            "parentid" : "DvBrjm_Zh",
+            "previewSettings" : null,
+            "radius" : 15,
+            "radiusBottomLeft" : 15,
+            "radiusBottomRight" : 15,
+            "radiusIsRelative" : false,
+            "radiusPerCorner" : false,
+            "radiusTopLeft" : 15,
+            "radiusTopRight" : 15,
+            "replicaInfo" : null,
+            "right" : 384,
+            "rotation" : 0,
+            "top" : 74,
+            "visible" : true,
+            "width" : 170,
+            "widthType" : 0
+          },
+          {
+            "__class" : "FrameNode",
+            "aspectRatio" : 1,
+            "blendingEnabled" : 0,
+            "blendingMode" : "normal",
+            "borderEnabled" : 0,
+            "bottom" : null,
+            "centerAnchorX" : 0.84722222222222221,
+            "centerAnchorY" : 0.17666666666666667,
+            "children" : [
+              {
+                "__class" : "TextNode",
+                "autoSize" : false,
+                "bottom" : null,
+                "centerAnchorX" : 0.36764705882352944,
+                "centerAnchorY" : 0.17352941176470588,
+                "codeOverrideEnabled" : false,
+                "constraintsLocked" : false,
+                "exportOptions" : [
+
+                ],
+                "height" : 25,
+                "heightType" : 0,
+                "id" : "BN8gQimvY",
+                "isTarget" : false,
+                "left" : 14,
+                "locked" : false,
+                "name" : null,
+                "opacity" : 1,
+                "originalid" : null,
+                "parentid" : "wBIU9JP67",
+                "right" : null,
+                "rotation" : 0,
+                "styledText" : {
+                  "__class" : "StyledTextDraft",
+                  "blocks" : [
+                    {
+                      "data" : {
+                        "emptyStyle" : [
+                          "LETTERSPACING:0",
+                          "LINEHEIGHT:1.2",
+                          "FONT:__SystemDefault-500-normal__",
+                          "SIZE:21",
+                          "COLOR:hsl(0, 0%, 0%)"
+                        ]
+                      },
+                      "depth" : 0,
+                      "entityRanges" : [
+
+                      ],
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 7,
+                          "offset" : 0,
+                          "style" : "LETTERSPACING:0"
+                        },
+                        {
+                          "length" : 7,
+                          "offset" : 0,
+                          "style" : "LINEHEIGHT:1.2"
+                        },
+                        {
+                          "length" : 7,
+                          "offset" : 0,
+                          "style" : "FONT:__SystemDefault-500-normal__"
+                        },
+                        {
+                          "length" : 7,
+                          "offset" : 0,
+                          "style" : "SIZE:21"
+                        },
+                        {
+                          "length" : 7,
+                          "offset" : 0,
+                          "style" : "COLOR:hsl(0, 0%, 0%)"
+                        }
+                      ],
+                      "key" : "a2c9o",
+                      "text" : "#B9FAF8",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "cached" : {
+                    "html" : "<div data-offset-key=\"a2c9o-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"a2c9o-0-0\" style=\"tab-size:4;font-family:&quot;system-ui&quot;, &quot;-apple-system&quot;, &quot;BlinkMacSystemFont&quot;, &quot;Segoe UI&quot;, &quot;Roboto&quot;, &quot;Oxygen&quot;, &quot;Ubuntu&quot;, &quot;Cantarell&quot;, &quot;Fira Sans&quot;, &quot;Droid Sans&quot;, &quot;Helvetica Neue&quot;, &quot;sans-serif&quot;, &quot;System Default&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:21px;letter-spacing:0px;line-height:1.2;font-weight:500\"><span data-text=\"true\">#B9FAF8<\/span><\/span><\/div>",
+                    "os" : "macos 10_15 framerx",
+                    "size" : {
+                      "height" : 25,
+                      "width" : 98
+                    },
+                    "width" : 97
+                  },
+                  "entityMap" : {
+
+                  }
+                },
+                "top" : 17,
+                "visible" : true,
+                "width" : 97,
+                "widthType" : 0
+              },
+              {
+                "__class" : "TextNode",
+                "autoSize" : false,
+                "bottom" : 19,
+                "centerAnchorX" : 0.45294117647058824,
+                "centerAnchorY" : 0.81470588235294117,
+                "codeOverrideEnabled" : false,
+                "constraintsLocked" : false,
+                "exportOptions" : [
+
+                ],
+                "height" : 25,
+                "heightType" : 0,
+                "id" : "vOI45pMfz",
+                "isTarget" : false,
+                "left" : 14,
+                "locked" : false,
+                "name" : null,
+                "opacity" : 1,
+                "originalid" : null,
+                "parentid" : "wBIU9JP67",
+                "right" : 30,
+                "rotation" : 0,
+                "styledText" : {
+                  "__class" : "StyledTextDraft",
+                  "blocks" : [
+                    {
+                      "data" : {
+                        "emptyStyle" : [
+                          "LETTERSPACING:0",
+                          "LINEHEIGHT:1.2",
+                          "FONT:__SystemDefault-500-normal__",
+                          "SIZE:21",
+                          "COLOR:hsl(0, 0%, 0%)"
+                        ]
+                      },
+                      "depth" : 0,
+                      "entityRanges" : [
+
+                      ],
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 11,
+                          "offset" : 0,
+                          "style" : "LETTERSPACING:0"
+                        },
+                        {
+                          "length" : 11,
+                          "offset" : 0,
+                          "style" : "LINEHEIGHT:1.2"
+                        },
+                        {
+                          "length" : 11,
+                          "offset" : 0,
+                          "style" : "FONT:__SystemDefault-500-normal__"
+                        },
+                        {
+                          "length" : 11,
+                          "offset" : 0,
+                          "style" : "SIZE:21"
+                        },
+                        {
+                          "length" : 11,
+                          "offset" : 0,
+                          "style" : "COLOR:hsl(0, 0%, 0%)"
+                        }
+                      ],
+                      "key" : "a2c9o",
+                      "text" : "secondary-3",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "cached" : {
+                    "html" : "<div data-offset-key=\"a2c9o-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"a2c9o-0-0\" style=\"tab-size:4;font-family:&quot;system-ui&quot;, &quot;-apple-system&quot;, &quot;BlinkMacSystemFont&quot;, &quot;Segoe UI&quot;, &quot;Roboto&quot;, &quot;Oxygen&quot;, &quot;Ubuntu&quot;, &quot;Cantarell&quot;, &quot;Fira Sans&quot;, &quot;Droid Sans&quot;, &quot;Helvetica Neue&quot;, &quot;sans-serif&quot;, &quot;System Default&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:21px;letter-spacing:0px;line-height:1.2;font-weight:500\"><span data-text=\"true\">secondary-3<\/span><\/span><\/div>",
+                    "os" : "macos 10_15 framerx",
+                    "size" : {
+                      "height" : 25,
+                      "width" : 127
+                    },
+                    "width" : 126
+                  },
+                  "entityMap" : {
+
+                  }
+                },
+                "top" : null,
+                "visible" : true,
+                "width" : 126,
+                "widthType" : 0
+              }
+            ],
+            "clip" : false,
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : false,
+            "deviceType" : null,
+            "exportOptions" : [
+
+            ],
+            "fillColor" : "var(--token-2abb851f-a823-477b-902d-d4472d84be93, rgb(185, 250, 248)) \/* {\"name\":\"secondary-3\"} *\/",
+            "fillEnabled" : true,
+            "fillImage" : null,
+            "fillImageOriginalName" : null,
+            "fillImagePixelHeight" : null,
+            "fillImagePixelWidth" : null,
+            "fillImageResize" : "fill",
+            "fillLinearGradient" : {
+              "__class" : "LinearGradient",
+              "alpha" : 1,
+              "angle" : 180,
+              "stops" : [
+                {
+                  "__class" : "GradientColorStop",
+                  "position" : 0,
+                  "value" : "rgb(84, 84, 84)"
+                },
+                {
+                  "__class" : "GradientColorStop",
+                  "position" : 1,
+                  "value" : "rgb(0, 0, 0)"
+                }
+              ]
+            },
+            "fillRadialGradient" : {
+              "__class" : "RadialGradient",
+              "alpha" : 1,
+              "centerAnchorX" : 0.5,
+              "centerAnchorY" : 0.5,
+              "heightFactor" : 0.5,
+              "stops" : [
+                {
+                  "__class" : "GradientColorStop",
+                  "position" : 0,
+                  "value" : "rgb(84, 84, 84)"
+                },
+                {
+                  "__class" : "GradientColorStop",
+                  "position" : 1,
+                  "value" : "rgb(0, 0, 0)"
+                }
+              ],
+              "widthFactor" : 0.5
+            },
+            "fillType" : "color",
+            "guidesX" : [
+
+            ],
+            "guidesY" : [
+
+            ],
+            "height" : 170,
+            "heightType" : 0,
+            "id" : "wBIU9JP67",
+            "intrinsicHeight" : null,
+            "intrinsicWidth" : null,
+            "isExternalMaster" : null,
+            "isMaster" : false,
+            "isTarget" : false,
+            "left" : null,
+            "locked" : false,
+            "name" : null,
+            "navigationTarget" : null,
+            "navigationTransition" : "push",
+            "navigationTransitionBackdropColor" : "rgba(4,4,15,.4)",
+            "navigationTransitionDirection" : "left",
+            "opacity" : 1,
+            "originalid" : null,
+            "parentid" : "DvBrjm_Zh",
+            "previewSettings" : null,
+            "radius" : 15,
+            "radiusBottomLeft" : 15,
+            "radiusBottomRight" : 15,
+            "radiusIsRelative" : false,
+            "radiusPerCorner" : false,
+            "radiusTopLeft" : 15,
+            "radiusTopRight" : 15,
+            "replicaInfo" : null,
+            "right" : 135,
+            "rotation" : 0,
+            "top" : 74,
+            "visible" : true,
+            "width" : 170,
+            "widthType" : 0
+          }
+        ],
+        "clip" : true,
+        "codeOverrideEnabled" : false,
+        "constraintsLocked" : false,
+        "deviceType" : "framer\/FramerAppleMacBookPro",
+        "exportOptions" : [
+
+        ],
+        "fillColor" : "rgba(255,255,255,1)",
+        "fillEnabled" : true,
+        "fillImage" : null,
+        "fillImageOriginalName" : null,
+        "fillImagePixelHeight" : null,
+        "fillImagePixelWidth" : null,
+        "fillImageResize" : "fill",
+        "fillType" : "color",
+        "guidesX" : [
+
+        ],
+        "guidesY" : [
+
+        ],
+        "height" : 900,
+        "heightType" : 0,
+        "id" : "DvBrjm_Zh",
+        "intrinsicHeight" : null,
+        "intrinsicWidth" : null,
+        "isExternalMaster" : null,
+        "isMaster" : false,
+        "isTarget" : false,
+        "left" : 0,
+        "locked" : false,
+        "name" : null,
+        "navigationTarget" : null,
+        "navigationTransition" : "push",
+        "navigationTransitionBackdropColor" : "rgba(4,4,15,.4)",
+        "navigationTransitionDirection" : "left",
+        "opacity" : 1,
+        "originalid" : null,
+        "parentid" : "wOat54lsK",
+        "previewSettings" : null,
+        "radius" : 0,
+        "radiusBottomLeft" : 0,
+        "radiusBottomRight" : 0,
+        "radiusIsRelative" : false,
+        "radiusPerCorner" : false,
+        "radiusTopLeft" : 0,
+        "radiusTopRight" : 0,
+        "replicaInfo" : null,
+        "right" : null,
+        "rotation" : 0,
+        "top" : 0,
+        "visible" : true,
+        "width" : 1440,
+        "widthType" : 0
+      },
+      {
+        "__class" : "TextNode",
+        "autoSize" : false,
+        "bottom" : null,
+        "centerAnchorX" : -0.16145833333333334,
+        "centerAnchorY" : 0.066666666666666666,
+        "codeOverrideEnabled" : false,
+        "constraintsLocked" : false,
+        "exportOptions" : [
+
+        ],
+        "height" : 120,
+        "heightType" : 0,
+        "id" : "nQ_YyQBJt",
+        "isTarget" : false,
+        "left" : -387,
+        "locked" : false,
+        "name" : null,
+        "opacity" : 1,
+        "originalid" : null,
+        "parentid" : "wOat54lsK",
+        "right" : null,
+        "rotation" : 0,
+        "styledText" : {
+          "__class" : "StyledTextDraft",
+          "blocks" : [
+            {
+              "data" : {
+                "emptyStyle" : [
+                  "COLOR:rgb(0, 0, 0)",
+                  "LETTERSPACING:0",
+                  "LINEHEIGHT:1.2",
+                  "SIZE:100",
+                  "FONT:__SystemDefault-700-normal__"
+                ]
+              },
+              "depth" : 0,
+              "entityRanges" : [
+
+              ],
+              "inlineStyleRanges" : [
+                {
+                  "length" : 6,
+                  "offset" : 0,
+                  "style" : "COLOR:rgb(0, 0, 0)"
+                },
+                {
+                  "length" : 6,
+                  "offset" : 0,
+                  "style" : "LETTERSPACING:0"
+                },
+                {
+                  "length" : 6,
+                  "offset" : 0,
+                  "style" : "LINEHEIGHT:1.2"
+                },
+                {
+                  "length" : 6,
+                  "offset" : 0,
+                  "style" : "SIZE:100"
+                },
+                {
+                  "length" : 6,
+                  "offset" : 0,
+                  "style" : "FONT:__SystemDefault-700-normal__"
+                }
+              ],
+              "key" : "836as",
+              "text" : "Colors",
+              "type" : "unstyled"
+            }
+          ],
+          "cached" : {
+            "html" : "<div data-offset-key=\"836as-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"836as-0-0\" style=\"tab-size:4;font-family:&quot;system-ui&quot;, &quot;-apple-system&quot;, &quot;BlinkMacSystemFont&quot;, &quot;Segoe UI&quot;, &quot;Roboto&quot;, &quot;Oxygen&quot;, &quot;Ubuntu&quot;, &quot;Cantarell&quot;, &quot;Fira Sans&quot;, &quot;Droid Sans&quot;, &quot;Helvetica Neue&quot;, &quot;sans-serif&quot;, &quot;System Default&quot;, serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:100px;letter-spacing:0px;line-height:1.2;font-weight:700\"><span data-text=\"true\">Colors<\/span><\/span><\/div>",
+            "os" : "macos 10_15 framerx",
+            "size" : {
+              "height" : 120,
+              "width" : 310
+            },
+            "width" : 309
+          },
+          "entityMap" : {
+
+          }
+        },
+        "top" : 0,
+        "visible" : true,
+        "width" : 309,
+        "widthType" : 0
+      },
+      {
+        "__class" : "TextNode",
+        "autoSize" : false,
+        "bottom" : null,
+        "centerAnchorX" : -0.16145833333333334,
+        "centerAnchorY" : 0.066666666666666666,
+        "codeOverrideEnabled" : false,
+        "constraintsLocked" : false,
+        "exportOptions" : [
+
+        ],
+        "height" : 120,
+        "heightType" : 0,
+        "id" : "G5nGaaSTR",
+        "isTarget" : false,
+        "left" : -387,
+        "locked" : false,
+        "name" : null,
+        "opacity" : 1,
+        "originalid" : null,
+        "parentid" : "wOat54lsK",
+        "right" : null,
+        "rotation" : 0,
+        "styledText" : {
+          "__class" : "StyledTextDraft",
+          "blocks" : [
+            {
+              "data" : {
+                "emptyStyle" : [
+                  "COLOR:rgb(0, 0, 0)",
+                  "LETTERSPACING:0",
+                  "LINEHEIGHT:1.2",
+                  "SIZE:100",
+                  "FONT:__SystemDefault-700-normal__"
+                ]
+              },
+              "depth" : 0,
+              "entityRanges" : [
+
+              ],
+              "inlineStyleRanges" : [
+                {
+                  "length" : 4,
+                  "offset" : 0,
+                  "style" : "COLOR:rgb(0, 0, 0)"
+                },
+                {
+                  "length" : 4,
+                  "offset" : 0,
+                  "style" : "LETTERSPACING:0"
+                },
+                {
+                  "length" : 4,
+                  "offset" : 0,
+                  "style" : "LINEHEIGHT:1.2"
+                },
+                {
+                  "length" : 4,
+                  "offset" : 0,
+                  "style" : "SIZE:100"
+                },
+                {
+                  "length" : 4,
+                  "offset" : 0,
+                  "style" : "FONT:__SystemDefault-700-normal__"
+                }
+              ],
+              "key" : "836as",
+              "text" : "Text",
+              "type" : "unstyled"
+            }
+          ],
+          "cached" : {
+            "html" : "<div data-offset-key=\"836as-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"836as-0-0\" style=\"tab-size:4;font-family:&quot;system-ui&quot;, &quot;-apple-system&quot;, &quot;BlinkMacSystemFont&quot;, &quot;Segoe UI&quot;, &quot;Roboto&quot;, &quot;Oxygen&quot;, &quot;Ubuntu&quot;, &quot;Cantarell&quot;, &quot;Fira Sans&quot;, &quot;Droid Sans&quot;, &quot;Helvetica Neue&quot;, &quot;sans-serif&quot;, &quot;System Default&quot;, serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:100px;letter-spacing:0px;line-height:1.2;font-weight:700\"><span data-text=\"true\">Text<\/span><\/span><\/div>",
+            "os" : "macos 10_15 framerx",
+            "size" : {
+              "height" : 120,
+              "width" : 310
+            },
+            "width" : 309
+          },
+          "entityMap" : {
+
+          }
+        },
+        "top" : 1140,
+        "visible" : true,
+        "width" : 309,
+        "widthType" : 0
+      },
+      {
+        "__class" : "FrameNode",
+        "aspectRatio" : null,
+        "blendingEnabled" : 0,
+        "blendingMode" : "normal",
+        "bottom" : null,
+        "centerAnchorX" : 0.51666666666666672,
+        "centerAnchorY" : 0.70666666666666667,
+        "children" : [
+          {
+            "__class" : "TextNode",
+            "autoSize" : false,
+            "bottom" : null,
+            "centerAnchorX" : 0.19062499999999999,
+            "centerAnchorY" : 0.11333333333333333,
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : false,
+            "exportOptions" : [
+
+            ],
+            "height" : 50,
+            "heightType" : 0,
+            "id" : "CIwSLfDio",
+            "isTarget" : false,
+            "left" : 96,
+            "locked" : false,
+            "name" : null,
+            "opacity" : 1,
+            "originalid" : null,
+            "parentid" : "nIUjH5K2x",
+            "right" : null,
+            "rotation" : 0,
+            "styledText" : {
+              "__class" : "StyledTextDraft",
+              "blocks" : [
+                {
+                  "data" : {
+                    "emptyStyle" : [
+                      "FONT:__SystemDefault-700-normal__",
+                      "COLOR:rgb(0, 0, 0)",
+                      "LETTERSPACING:0",
+                      "LINEHEIGHT:1.2",
+                      "SIZE:42"
+                    ]
+                  },
+                  "depth" : 0,
+                  "entityRanges" : [
+
+                  ],
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 10,
+                      "offset" : 0,
+                      "style" : "FONT:__SystemDefault-700-normal__"
+                    },
+                    {
+                      "length" : 10,
+                      "offset" : 0,
+                      "style" : "COLOR:rgb(0, 0, 0)"
+                    },
+                    {
+                      "length" : 10,
+                      "offset" : 0,
+                      "style" : "LETTERSPACING:0"
+                    },
+                    {
+                      "length" : 10,
+                      "offset" : 0,
+                      "style" : "LINEHEIGHT:1.2"
+                    },
+                    {
+                      "length" : 10,
+                      "offset" : 0,
+                      "style" : "SIZE:42"
+                    }
+                  ],
+                  "key" : "c0ju1",
+                  "text" : "<Header \/>",
+                  "type" : "unstyled"
+                }
+              ],
+              "cached" : {
+                "html" : "<div data-offset-key=\"c0ju1-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"c0ju1-0-0\" style=\"tab-size:4;font-family:&quot;system-ui&quot;, &quot;-apple-system&quot;, &quot;BlinkMacSystemFont&quot;, &quot;Segoe UI&quot;, &quot;Roboto&quot;, &quot;Oxygen&quot;, &quot;Ubuntu&quot;, &quot;Cantarell&quot;, &quot;Fira Sans&quot;, &quot;Droid Sans&quot;, &quot;Helvetica Neue&quot;, &quot;sans-serif&quot;, &quot;System Default&quot;, serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:42px;letter-spacing:0px;line-height:1.2;font-weight:700\"><span data-text=\"true\">&lt;Header \/&gt;<\/span><\/span><\/div>",
+                "os" : "macos 10_15 framerx",
+                "size" : {
+                  "height" : 50,
+                  "width" : 358
+                },
+                "width" : 357
+              },
+              "entityMap" : {
+
+              }
+            },
+            "top" : 77,
+            "visible" : true,
+            "width" : 357,
+            "widthType" : 0
+          },
+          {
+            "__class" : "TextNode",
+            "autoSize" : false,
+            "bottom" : null,
+            "centerAnchorX" : 0.19062499999999999,
+            "centerAnchorY" : 0.3288888888888889,
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : false,
+            "exportOptions" : [
+
+            ],
+            "height" : 50,
+            "heightType" : 0,
+            "id" : "ludIjXXUP",
+            "isTarget" : false,
+            "left" : 96,
+            "locked" : false,
+            "name" : null,
+            "opacity" : 1,
+            "originalid" : null,
+            "parentid" : "nIUjH5K2x",
+            "right" : null,
+            "rotation" : 0,
+            "styledText" : {
+              "__class" : "StyledTextDraft",
+              "blocks" : [
+                {
+                  "data" : {
+                    "emptyStyle" : [
+                      "FONT:__SystemDefault-700-normal__",
+                      "COLOR:rgb(0, 0, 0)",
+                      "LETTERSPACING:0",
+                      "LINEHEIGHT:1.2",
+                      "SIZE:42"
+                    ]
+                  },
+                  "depth" : 0,
+                  "entityRanges" : [
+
+                  ],
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 12,
+                      "offset" : 0,
+                      "style" : "FONT:__SystemDefault-700-normal__"
+                    },
+                    {
+                      "length" : 12,
+                      "offset" : 0,
+                      "style" : "COLOR:rgb(0, 0, 0)"
+                    },
+                    {
+                      "length" : 12,
+                      "offset" : 0,
+                      "style" : "LETTERSPACING:0"
+                    },
+                    {
+                      "length" : 12,
+                      "offset" : 0,
+                      "style" : "LINEHEIGHT:1.2"
+                    },
+                    {
+                      "length" : 12,
+                      "offset" : 0,
+                      "style" : "SIZE:42"
+                    }
+                  ],
+                  "key" : "c0ju1",
+                  "text" : "<Subtitle \/>",
+                  "type" : "unstyled"
+                }
+              ],
+              "cached" : {
+                "html" : "<div data-offset-key=\"c0ju1-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"c0ju1-0-0\" style=\"tab-size:4;font-family:&quot;system-ui&quot;, &quot;-apple-system&quot;, &quot;BlinkMacSystemFont&quot;, &quot;Segoe UI&quot;, &quot;Roboto&quot;, &quot;Oxygen&quot;, &quot;Ubuntu&quot;, &quot;Cantarell&quot;, &quot;Fira Sans&quot;, &quot;Droid Sans&quot;, &quot;Helvetica Neue&quot;, &quot;sans-serif&quot;, &quot;System Default&quot;, serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:42px;letter-spacing:0px;line-height:1.2;font-weight:700\"><span data-text=\"true\">&lt;Subtitle \/&gt;<\/span><\/span><\/div>",
+                "os" : "macos 10_15 framerx",
+                "size" : {
+                  "height" : 50,
+                  "width" : 358
+                },
+                "width" : 357
+              },
+              "entityMap" : {
+
+              }
+            },
+            "top" : 271,
+            "visible" : true,
+            "width" : 357,
+            "widthType" : 0
+          },
+          {
+            "__class" : "CodeComponentNode",
+            "aspectRatio" : null,
+            "bottom" : null,
+            "centerAnchorX" : 0.30694444444444446,
+            "centerAnchorY" : 0.17499999999999999,
+            "children" : [
+
+            ],
+            "clip" : true,
+            "codeComponentIdentifier" : ".\/Header.tsx_Header",
+            "codeComponentProps" : {
+              "text" : "The quick brown fox jumps over the lazy dog"
+            },
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : false,
+            "deviceType" : null,
+            "exportOptions" : [
+
+            ],
+            "fillColor" : "rgba(255,255,255,1)",
+            "fillEnabled" : false,
+            "fillImage" : null,
+            "fillImageOriginalName" : null,
+            "fillImagePixelHeight" : null,
+            "fillImagePixelWidth" : null,
+            "fillImageResize" : "fill",
+            "fillType" : "color",
+            "height" : 61,
+            "heightType" : 0,
+            "id" : "a9WUYHdwb",
+            "intrinsicHeight" : null,
+            "intrinsicWidth" : null,
+            "left" : 96,
+            "locked" : false,
+            "name" : null,
+            "opacity" : 1,
+            "originalid" : null,
+            "parentid" : "nIUjH5K2x",
+            "previewSettings" : null,
+            "radius" : 0,
+            "radiusBottomLeft" : 0,
+            "radiusBottomRight" : 0,
+            "radiusIsRelative" : false,
+            "radiusPerCorner" : false,
+            "radiusTopLeft" : 0,
+            "radiusTopRight" : 0,
+            "right" : null,
+            "rotation" : 0,
+            "top" : 127,
+            "visible" : true,
+            "width" : 692,
+            "widthType" : 0
+          },
+          {
+            "__class" : "CodeComponentNode",
+            "aspectRatio" : null,
+            "bottom" : null,
+            "centerAnchorX" : 0.30937500000000001,
+            "centerAnchorY" : 0.38111111111111112,
+            "children" : [
+
+            ],
+            "clip" : true,
+            "codeComponentIdentifier" : ".\/Subtitle.tsx_Subtitle",
+            "codeComponentProps" : {
+              "text" : "The quick brown fox jumps over the lazy dog"
+            },
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : false,
+            "deviceType" : null,
+            "exportOptions" : [
+
+            ],
+            "fillColor" : "rgba(255,255,255,1)",
+            "fillEnabled" : false,
+            "fillImage" : null,
+            "fillImageOriginalName" : null,
+            "fillImagePixelHeight" : null,
+            "fillImagePixelWidth" : null,
+            "fillImageResize" : "fill",
+            "fillType" : "color",
+            "height" : 44,
+            "heightType" : 0,
+            "id" : "VgN37WiH8",
+            "intrinsicHeight" : null,
+            "intrinsicWidth" : null,
+            "left" : 103,
+            "locked" : false,
+            "name" : null,
+            "opacity" : 1,
+            "originalid" : null,
+            "parentid" : "nIUjH5K2x",
+            "previewSettings" : null,
+            "radius" : 0,
+            "radiusBottomLeft" : 0,
+            "radiusBottomRight" : 0,
+            "radiusIsRelative" : false,
+            "radiusPerCorner" : false,
+            "radiusTopLeft" : 0,
+            "radiusTopRight" : 0,
+            "right" : null,
+            "rotation" : 0,
+            "top" : 321,
+            "visible" : true,
+            "width" : 685,
+            "widthType" : 0
+          }
+        ],
+        "clip" : true,
+        "codeOverrideEnabled" : false,
+        "constraintsLocked" : false,
+        "deviceType" : "framer\/FramerAppleMacBookPro",
+        "exportOptions" : [
+
+        ],
+        "fillColor" : "rgba(255,255,255,1)",
+        "fillEnabled" : true,
+        "fillImage" : null,
+        "fillImageOriginalName" : null,
+        "fillImagePixelHeight" : null,
+        "fillImagePixelWidth" : null,
+        "fillImageResize" : "fill",
+        "fillType" : "color",
+        "guidesX" : [
+
+        ],
+        "guidesY" : [
+
+        ],
+        "height" : 900,
+        "heightType" : 0,
+        "id" : "nIUjH5K2x",
+        "intrinsicHeight" : null,
+        "intrinsicWidth" : null,
+        "isExternalMaster" : null,
+        "isMaster" : false,
+        "isTarget" : false,
+        "left" : 0,
+        "locked" : false,
+        "name" : null,
+        "navigationTarget" : null,
+        "navigationTransition" : "push",
+        "navigationTransitionBackdropColor" : "rgba(4,4,15,.4)",
+        "navigationTransitionDirection" : "left",
+        "opacity" : 1,
+        "originalid" : null,
+        "parentid" : "wOat54lsK",
+        "previewSettings" : null,
+        "radius" : 0,
+        "radiusBottomLeft" : 0,
+        "radiusBottomRight" : 0,
+        "radiusIsRelative" : false,
+        "radiusPerCorner" : false,
+        "radiusTopLeft" : 0,
+        "radiusTopRight" : 0,
+        "replicaInfo" : null,
+        "right" : null,
+        "rotation" : 0,
+        "top" : 1140,
+        "visible" : true,
+        "width" : 1440,
+        "widthType" : 0
+      },
+      {
+        "__class" : "FrameNode",
+        "aspectRatio" : null,
+        "blendingEnabled" : 0,
+        "blendingMode" : "normal",
+        "bottom" : null,
+        "centerAnchorX" : 0.8256944444444444,
+        "centerAnchorY" : 0.51222222222222225,
+        "children" : [
+          {
+            "__class" : "CodeComponentNode",
+            "aspectRatio" : null,
+            "bottom" : null,
+            "centerAnchorX" : 0.49939722724532853,
+            "centerAnchorY" : 0.57777777777777772,
+            "children" : [
+
+            ],
+            "clip" : true,
+            "codeComponentIdentifier" : ".\/Cards.tsx_Cards",
+            "codeComponentProps" : {
+
+            },
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : true,
+            "deviceType" : null,
+            "exportOptions" : [
+
+            ],
+            "fillColor" : "rgba(255,255,255,1)",
+            "fillEnabled" : false,
+            "fillImage" : null,
+            "fillImageOriginalName" : null,
+            "fillImagePixelHeight" : null,
+            "fillImagePixelWidth" : null,
+            "fillImageResize" : "fill",
+            "fillType" : "color",
+            "height" : 128,
+            "heightType" : 0,
+            "id" : "BGzMZUUAD",
+            "intrinsicHeight" : null,
+            "intrinsicWidth" : null,
+            "left" : 76,
+            "locked" : false,
+            "name" : null,
+            "opacity" : 1,
+            "originalid" : null,
+            "parentid" : "g4XpYl2W2",
+            "previewSettings" : null,
+            "radius" : 0,
+            "radiusBottomLeft" : 0,
+            "radiusBottomRight" : 0,
+            "radiusIsRelative" : false,
+            "radiusPerCorner" : false,
+            "radiusTopLeft" : 0,
+            "radiusTopRight" : 0,
+            "right" : 78,
+            "rotation" : 0,
+            "top" : null,
+            "visible" : true,
+            "width" : 1505,
+            "widthType" : 0
+          },
+          {
+            "__class" : "TextNode",
+            "autoSize" : false,
+            "bottom" : null,
+            "centerAnchorX" : 0.092827004219409287,
+            "centerAnchorY" : 0.43444444444444447,
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : false,
+            "exportOptions" : [
+
+            ],
+            "height" : 62,
+            "heightType" : 0,
+            "id" : "iPw5bRJY8",
+            "isTarget" : false,
+            "left" : 79,
+            "locked" : false,
+            "name" : null,
+            "opacity" : 1,
+            "originalid" : null,
+            "parentid" : "g4XpYl2W2",
+            "right" : null,
+            "rotation" : 0,
+            "styledText" : {
+              "__class" : "StyledTextDraft",
+              "blocks" : [
+                {
+                  "data" : {
+                    "emptyStyle" : [
+                      "FONT:__SystemDefault-700-normal__",
+                      "COLOR:rgb(0, 0, 0)",
+                      "LETTERSPACING:0",
+                      "LINEHEIGHT:1.2",
+                      "SIZE:52"
+                    ]
+                  },
+                  "depth" : 0,
+                  "entityRanges" : [
+
+                  ],
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 5,
+                      "offset" : 0,
+                      "style" : "FONT:__SystemDefault-700-normal__"
+                    },
+                    {
+                      "length" : 5,
+                      "offset" : 0,
+                      "style" : "COLOR:rgb(0, 0, 0)"
+                    },
+                    {
+                      "length" : 5,
+                      "offset" : 0,
+                      "style" : "LETTERSPACING:0"
+                    },
+                    {
+                      "length" : 5,
+                      "offset" : 0,
+                      "style" : "LINEHEIGHT:1.2"
+                    },
+                    {
+                      "length" : 5,
+                      "offset" : 0,
+                      "style" : "SIZE:52"
+                    }
+                  ],
+                  "key" : "2drdk",
+                  "text" : "Cards",
+                  "type" : "unstyled"
+                }
+              ],
+              "cached" : {
+                "html" : "<div data-offset-key=\"2drdk-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"2drdk-0-0\" style=\"tab-size:4;font-family:&quot;system-ui&quot;, &quot;-apple-system&quot;, &quot;BlinkMacSystemFont&quot;, &quot;Segoe UI&quot;, &quot;Roboto&quot;, &quot;Oxygen&quot;, &quot;Ubuntu&quot;, &quot;Cantarell&quot;, &quot;Fira Sans&quot;, &quot;Droid Sans&quot;, &quot;Helvetica Neue&quot;, &quot;sans-serif&quot;, &quot;System Default&quot;, serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:52px;letter-spacing:0px;line-height:1.2;font-weight:700\"><span data-text=\"true\">Cards<\/span><\/span><\/div>",
+                "os" : "macos 10_15 framerx",
+                "size" : {
+                  "height" : 62,
+                  "width" : 145
+                },
+                "width" : 144
+              },
+              "entityMap" : {
+
+              }
+            },
+            "top" : 360,
+            "visible" : true,
+            "width" : 150,
+            "widthType" : 0
+          },
+          {
+            "__class" : "TextNode",
+            "autoSize" : false,
+            "bottom" : null,
+            "centerAnchorX" : 0.095486111111111105,
+            "centerAnchorY" : 0.098888888888888887,
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : false,
+            "exportOptions" : [
+
+            ],
+            "height" : 62,
+            "heightType" : 0,
+            "id" : "YZf_kr0qP",
+            "isTarget" : false,
+            "left" : 76,
+            "locked" : false,
+            "name" : null,
+            "opacity" : 1,
+            "originalid" : null,
+            "parentid" : "g4XpYl2W2",
+            "right" : null,
+            "rotation" : 0,
+            "styledText" : {
+              "__class" : "StyledTextDraft",
+              "blocks" : [
+                {
+                  "data" : {
+                    "emptyStyle" : [
+                      "FONT:__SystemDefault-700-normal__",
+                      "COLOR:rgb(0, 0, 0)",
+                      "LETTERSPACING:0",
+                      "LINEHEIGHT:1.2",
+                      "SIZE:52"
+                    ]
+                  },
+                  "depth" : 0,
+                  "entityRanges" : [
+
+                  ],
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 4,
+                      "offset" : 0,
+                      "style" : "FONT:__SystemDefault-700-normal__"
+                    },
+                    {
+                      "length" : 4,
+                      "offset" : 0,
+                      "style" : "COLOR:rgb(0, 0, 0)"
+                    },
+                    {
+                      "length" : 4,
+                      "offset" : 0,
+                      "style" : "LETTERSPACING:0"
+                    },
+                    {
+                      "length" : 4,
+                      "offset" : 0,
+                      "style" : "LINEHEIGHT:1.2"
+                    },
+                    {
+                      "length" : 4,
+                      "offset" : 0,
+                      "style" : "SIZE:52"
+                    }
+                  ],
+                  "key" : "2drdk",
+                  "text" : "Card",
+                  "type" : "unstyled"
+                }
+              ],
+              "cached" : {
+                "html" : "<div data-offset-key=\"2drdk-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"2drdk-0-0\" style=\"tab-size:4;font-family:&quot;system-ui&quot;, &quot;-apple-system&quot;, &quot;BlinkMacSystemFont&quot;, &quot;Segoe UI&quot;, &quot;Roboto&quot;, &quot;Oxygen&quot;, &quot;Ubuntu&quot;, &quot;Cantarell&quot;, &quot;Fira Sans&quot;, &quot;Droid Sans&quot;, &quot;Helvetica Neue&quot;, &quot;sans-serif&quot;, &quot;System Default&quot;, serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:52px;letter-spacing:0px;line-height:1.2;font-weight:700\"><span data-text=\"true\">Card<\/span><\/span><\/div>",
+                "os" : "macos 10_15 framerx",
+                "size" : {
+                  "height" : 124,
+                  "width" : 113
+                },
+                "width" : 112
+              },
+              "entityMap" : {
+
+              }
+            },
+            "top" : 58,
+            "visible" : true,
+            "width" : 123,
+            "widthType" : 0
+          },
+          {
+            "__class" : "CodeComponentNode",
+            "aspectRatio" : null,
+            "bottom" : null,
+            "centerAnchorX" : 0.13020833333333334,
+            "centerAnchorY" : 0.23333333333333334,
+            "children" : [
+
+            ],
+            "clip" : true,
+            "codeComponentIdentifier" : ".\/Card.tsx_Card",
+            "codeComponentProps" : {
+              "content" : "This is my content",
+              "header" : "My header"
+            },
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : false,
+            "deviceType" : null,
+            "exportOptions" : [
+
+            ],
+            "fillColor" : "rgba(255,255,255,1)",
+            "fillEnabled" : false,
+            "fillImage" : null,
+            "fillImageOriginalName" : null,
+            "fillImagePixelHeight" : null,
+            "fillImagePixelWidth" : null,
+            "fillImageResize" : "fill",
+            "fillType" : "color",
+            "height" : 112,
+            "heightType" : 0,
+            "id" : "G8WRO14h9",
+            "intrinsicHeight" : null,
+            "intrinsicWidth" : null,
+            "left" : 76,
+            "locked" : false,
+            "name" : null,
+            "opacity" : 1,
+            "originalid" : null,
+            "parentid" : "g4XpYl2W2",
+            "previewSettings" : null,
+            "radius" : 0,
+            "radiusBottomLeft" : 0,
+            "radiusBottomRight" : 0,
+            "radiusIsRelative" : false,
+            "radiusPerCorner" : false,
+            "radiusTopLeft" : 0,
+            "radiusTopRight" : 0,
+            "right" : null,
+            "rotation" : 0,
+            "top" : 154,
+            "visible" : true,
+            "width" : 223,
+            "widthType" : 0
+          }
+        ],
+        "clip" : true,
+        "codeOverrideEnabled" : false,
+        "constraintsLocked" : false,
+        "deviceType" : null,
+        "exportOptions" : [
+
+        ],
+        "fillColor" : "rgba(255,255,255,1)",
+        "fillEnabled" : true,
+        "fillImage" : null,
+        "fillImageOriginalName" : null,
+        "fillImagePixelHeight" : null,
+        "fillImagePixelWidth" : null,
+        "fillImageResize" : "fill",
+        "fillType" : "color",
+        "guidesX" : [
+
+        ],
+        "guidesY" : [
+
+        ],
+        "height" : 900,
+        "heightType" : 0,
+        "id" : "g4XpYl2W2",
+        "intrinsicHeight" : null,
+        "intrinsicWidth" : null,
+        "isExternalMaster" : null,
+        "isMaster" : false,
+        "isTarget" : false,
+        "left" : 2262,
+        "locked" : false,
+        "name" : null,
+        "navigationTarget" : null,
+        "navigationTransition" : "push",
+        "navigationTransitionBackdropColor" : "rgba(4,4,15,.4)",
+        "navigationTransitionDirection" : "left",
+        "opacity" : 1,
+        "originalid" : null,
+        "parentid" : "wOat54lsK",
+        "previewSettings" : {
+          "__class" : "PreviewSettings",
+          "bezel" : false,
+          "deviceType" : "framer\/FramerAppleMacBookPro",
+          "responsive" : false,
+          "rotate" : true,
+          "touch" : false,
+          "zoom" : -1
+        },
+        "radius" : 0,
+        "radiusBottomLeft" : 0,
+        "radiusBottomRight" : 0,
+        "radiusIsRelative" : false,
+        "radiusPerCorner" : false,
+        "radiusTopLeft" : 0,
+        "radiusTopRight" : 0,
+        "replicaInfo" : null,
+        "right" : null,
+        "rotation" : 0,
+        "top" : 0,
+        "visible" : true,
+        "width" : 1526,
+        "widthType" : 0
+      },
+      {
+        "__class" : "TextNode",
+        "autoSize" : false,
+        "bottom" : null,
+        "centerAnchorX" : 0.88298611111111114,
+        "centerAnchorY" : 0.084444444444444447,
+        "codeOverrideEnabled" : false,
+        "constraintsLocked" : false,
+        "exportOptions" : [
+
+        ],
+        "height" : 120,
+        "heightType" : 0,
+        "id" : "hEUPSIlQY",
+        "isTarget" : false,
+        "left" : 1773,
+        "locked" : false,
+        "name" : null,
+        "opacity" : 1,
+        "originalid" : null,
+        "parentid" : "wOat54lsK",
+        "right" : null,
+        "rotation" : 0,
+        "styledText" : {
+          "__class" : "StyledTextDraft",
+          "blocks" : [
+            {
+              "data" : {
+                "emptyStyle" : [
+                  "COLOR:rgb(0, 0, 0)",
+                  "LETTERSPACING:0",
+                  "LINEHEIGHT:1.2",
+                  "SIZE:100",
+                  "FONT:__SystemDefault-700-normal__"
+                ]
+              },
+              "depth" : 0,
+              "entityRanges" : [
+
+              ],
+              "inlineStyleRanges" : [
+                {
+                  "length" : 7,
+                  "offset" : 0,
+                  "style" : "COLOR:rgb(0, 0, 0)"
+                },
+                {
+                  "length" : 7,
+                  "offset" : 0,
+                  "style" : "LETTERSPACING:0"
+                },
+                {
+                  "length" : 7,
+                  "offset" : 0,
+                  "style" : "LINEHEIGHT:1.2"
+                },
+                {
+                  "length" : 7,
+                  "offset" : 0,
+                  "style" : "SIZE:100"
+                },
+                {
+                  "length" : 7,
+                  "offset" : 0,
+                  "style" : "FONT:__SystemDefault-700-normal__"
+                }
+              ],
+              "key" : "836as",
+              "text" : "Samples",
+              "type" : "unstyled"
+            }
+          ],
+          "cached" : {
+            "html" : "<div data-offset-key=\"836as-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"836as-0-0\" style=\"tab-size:4;font-family:&quot;system-ui&quot;, &quot;-apple-system&quot;, &quot;BlinkMacSystemFont&quot;, &quot;Segoe UI&quot;, &quot;Roboto&quot;, &quot;Oxygen&quot;, &quot;Ubuntu&quot;, &quot;Cantarell&quot;, &quot;Fira Sans&quot;, &quot;Droid Sans&quot;, &quot;Helvetica Neue&quot;, &quot;sans-serif&quot;, &quot;System Default&quot;, serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:100px;letter-spacing:0px;line-height:1.2;font-weight:700\"><span data-text=\"true\">Samples<\/span><\/span><\/div>",
+            "os" : "macos 10_15 framerx",
+            "size" : {
+              "height" : 120,
+              "width" : 412
+            },
+            "width" : 411
+          },
+          "entityMap" : {
+
+          }
+        },
+        "top" : 0,
+        "visible" : true,
+        "width" : 411,
+        "widthType" : 0
+      }
+    ],
+    "guidesX" : [
+
+    ],
+    "guidesY" : [
+
+    ],
+    "id" : "wOat54lsK",
+    "name" : null,
+    "originalid" : null,
+    "parentid" : null,
+    "tokens" : {
+      "2abb851f-a823-477b-902d-d4472d84be93" : {
+        "__class" : "ColorTokenNode",
+        "id" : "2abb851f-a823-477b-902d-d4472d84be93",
+        "name" : "secondary-3",
+        "value" : "rgb(185, 250, 248)"
+      },
+      "6fa0063c-8ecc-465d-844c-6d173de05c7d" : {
+        "__class" : "ColorTokenNode",
+        "id" : "6fa0063c-8ecc-465d-844c-6d173de05c7d",
+        "name" : "primary-1",
+        "value" : "rgb(111, 45, 189)"
+      },
+      "888583d8-b120-4b9c-8e6a-6ab09bff4424" : {
+        "__class" : "ColorTokenNode",
+        "id" : "888583d8-b120-4b9c-8e6a-6ab09bff4424",
+        "name" : "secondary-1",
+        "value" : "rgb(178, 152, 220)"
+      },
+      "933541d7-05c1-432c-9c78-65dabebd26ae" : {
+        "__class" : "ColorTokenNode",
+        "id" : "933541d7-05c1-432c-9c78-65dabebd26ae",
+        "name" : "secondary-2",
+        "value" : "rgb(184, 208, 235)"
+      },
+      "c2782fdb-62fd-461a-a974-5f1bdbd86deb" : {
+        "__class" : "ColorTokenNode",
+        "id" : "c2782fdb-62fd-461a-a974-5f1bdbd86deb",
+        "name" : "primary-2",
+        "value" : "rgb(166, 99, 204)"
+      }
+    },
+    "tokensIndex" : [
+      "6fa0063c-8ecc-465d-844c-6d173de05c7d",
+      "c2782fdb-62fd-461a-a974-5f1bdbd86deb",
+      "888583d8-b120-4b9c-8e6a-6ab09bff4424",
+      "933541d7-05c1-432c-9c78-65dabebd26ae",
+      "2abb851f-a823-477b-902d-d4472d84be93"
+    ],
+    "visible" : false
+  },
+  "version" : 55
+}
